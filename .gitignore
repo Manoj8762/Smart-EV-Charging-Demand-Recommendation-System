@@ -5,13 +5,13 @@
 __pycache__/
 *.pyc
 
-# Environment variables
+# Environment files
 .env
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Streamlit cache
+# Streamlit
 .streamlit/
 
 # OS files
